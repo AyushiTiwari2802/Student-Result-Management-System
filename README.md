@@ -1,4 +1,4 @@
-# Student Result Management System
+# Academic Record-Keeping Application
 
 Welcome to the Student Result Management System (SRMS) project! This application allows you to manage student information and results using a graphical user interface.
 
